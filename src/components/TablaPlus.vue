@@ -183,6 +183,7 @@ data: () => ({
     },
     { title: 'Título', key: 'title', sortable: false, align: "center", width: "100px" },
     { title: 'Post', key: 'body', sortable: false, align: "center", width: "100px" },
+    { title: 'Actions', key: 'actions', sortable: false, align: "center", width: "100px" },
   ],
   datosPosts: [],
   editedIndex: -1,
